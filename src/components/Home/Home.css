@@ -1,0 +1,51 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@100&display=swap");
+.homeComp {
+  display: flex;
+  flex-direction: row;
+  background-color: #1e2235;
+  justify-content: space-between;
+  height: 100vh;
+}
+.tplContainer {
+  /* border: 2px solid red; */
+  width: 50%;
+}
+.title {
+  font-family: Gladerglynn Titling;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 80px;
+  line-height: 6rem;
+  color: #ffffff;
+  text-align: center;
+}
+.tez {
+  color: #429ffd;
+  font-size: 150%;
+}
+
+.tplAbout {
+  color: white;
+  text-align: center;
+  font-size: 25px;
+}
+.person {
+  width: 40%;
+}
+
+.joystick {
+  width: 400px;
+  margin-top: 300px;
+  margin-left: 100px;
+
+
+}
+
+.tplAbout ul
+{
+  display:flex;  
+  list-style:none;
+  color: #a1f703d8;
+  font-weight: 700;
+  font-size: 26px;
+}
